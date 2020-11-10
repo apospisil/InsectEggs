@@ -1,4 +1,4 @@
-#' Insect Eggs
+#' InsectEggs
 #'
 #' This package contains information about egg
 #' dimensions of insects of various species.
@@ -7,7 +7,7 @@
 #' @aliases InsectEggs InsectEggs-package
 NULL
 
-#' "Insect Eggs"
+#' "InsectEggs"
 #'
 #' A data set containing information about egg
 #' dimensions of insects of various species.
