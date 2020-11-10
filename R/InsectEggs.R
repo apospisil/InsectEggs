@@ -3,7 +3,7 @@
 #' This package contains information about egg
 #' dimensions of insects of various species.
 #' @docType package
-#' @name InsectEggs
+#' @name insect_eggs
 #' @aliases InsectEggs InsectEggs-package
 NULL
 
@@ -26,4 +26,4 @@ NULL
 #'   \item{vol}{Insect egg volume in mm^3}
 #'   \item{year}{Year of publication of a paper from which egg dimensions were extracted}
 #' }
-"InsectEggs"
+"insect_eggs"
