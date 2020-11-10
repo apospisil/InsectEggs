@@ -33,7 +33,7 @@ insect_eggs <- insect_eggs %>%
     curvature = curv, volume = vol
   ) %>%
   na.omit()
-InsectEggs <- insect_eggs
 
-usethis::use_data(InsectEggs, overwrite = TRUE)
+
+usethis::use_data(insect_eggs)
 
