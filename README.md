@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+![R-CMD-check](https://github.com/apospisil/InsectEggs/workflows/R-CMD-check/badge.svg)
 <!-- badges: end -->
 
 The goal of InsectEggs is to provide information about egg dimensions of
